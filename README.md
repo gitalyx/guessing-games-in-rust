@@ -1,2 +1,16 @@
-of course the principal file is in src main.rs is a number guess game
-just git clone and to run in the terminal/comand line rustc run
+### What is this
+
+This is a mini rust game in the terminal where is guess the number from 1 to 100
+
+### Installation
+
+ ```sh
+ git clone https://github.com/gitalyx/guessing-games-in-rust
+ ```
+After you are done copy this
+
+ ```sh
+ cd  guessing-game/src
+
+ rustc run main.rs
+ ```
