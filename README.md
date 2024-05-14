@@ -12,5 +12,5 @@ After you are done copy this
  ```sh
  cd  guessing-game/src
 
- rustc run main.rs
+ cargo build main.rs
  ```
